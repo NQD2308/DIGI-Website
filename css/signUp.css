@@ -17,7 +17,6 @@
     letter-spacing: 5px;
     font-style: italic;
     margin-top: 20px;
-    margin-bottom: 100px;
 }
 
 .signUp-title .col{
@@ -68,6 +67,7 @@
     border-radius: 20px;
     padding-top: 50px;
     padding-bottom: 50px;
+    margin-bottom: 100px;
     /* justify-items: center; */
     /* margin-top: 20px;
     margin: 50px; */
@@ -94,7 +94,7 @@
 }
 
 .signUp-title .container{
-    margin-top: 120px;
+    /* margin-top: 120px; */
 }
 
 .signUp-title form input.btn-signUp{
@@ -104,7 +104,7 @@
     margin-top: 20px;
     border: none;
     color: white;
-    /* margin-bottom: 100px; */
+    margin-bottom: 10px;
 }
 
 
